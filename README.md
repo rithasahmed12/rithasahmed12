@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React And Redux**
 
-- 👨‍💻 My projects available at [https://github.com/rithasahmed12](https://github.com/rithasahmed12)
+- 👨‍💻 My projects available at [https://github.com/rithasahmed12](https://github.com/rithasahmed12?tab=repositories)
 
 - 💬 Ask me about **React,Redux,JavaScript,Nodejs,Expressjs**
 
