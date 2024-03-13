@@ -1,4 +1,4 @@
-<h1 align="center">I am Rithas Ahamed</h1>
+<h1 align="center">I AM Rithas Ahamed</h1>
 <h3 align="center">MERN stack developer</h3>
 
 
