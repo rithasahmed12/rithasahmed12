@@ -1,6 +1,8 @@
 <h1 align="center">I am Rithas Ahamed</h1>
 <h3 align="center">MERN stack developer</h3>
 
+<img src='https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithasahmed12&label=Profile%20views&color=0e75b6&style=flat" alt="rithasahmed12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithasahmed12" alt="rithasahmed12" /></a> </p>
