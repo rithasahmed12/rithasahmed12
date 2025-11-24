@@ -10,7 +10,7 @@
 
 <img width="30%" align="right" src='https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif'>
 
-- 🌱 I’m currently working on **HRMS as Saas** project
+- 🌱 I’m currently working as **SDE-1** at **Neutrinos**
 
 - 👨‍💻 All My projects available at [My Repositories](https://github.com/rithasahmed12?tab=repositories)
 
